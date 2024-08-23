@@ -1,0 +1,6 @@
+@WCollectionAI_HostAddress = http://localhost:5291
+
+GET {{WCollectionAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
